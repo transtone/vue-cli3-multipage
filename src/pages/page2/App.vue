@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <a href="/">index</a> | <a href="/page1.html">page1</a> | <a href="/page2.html">page2</a> 
-    <h2>this is page2 index page</h2>
+    <a href="/">index</a> | <a href="/page1.html">page1</a> | <a href="/page2.html">page2</a>
+    <h2>this is page2 index page. 改个字 这个可以</h2>
   </div>
 </template>
 

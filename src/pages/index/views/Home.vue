@@ -1,7 +1,9 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="@/assets/logo.png">
-    <HelloWorld msg="Welcome to Your Index.html"/>
+    <img alt="Vue logo"
+         src="@/assets/logo.png">
+    <HelloWorld msg="Welcome to Your Index.html" />
+    我是index的home
   </div>
 </template>
 

@@ -1,0 +1,13 @@
+@keyframes fadeLeftIn {
+  0% {
+    -webkit-transform: translateX(5px);
+    transform: translateX(5px);
+    opacity: 0;
+  }
+
+  to {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
